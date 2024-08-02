@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devProj3.iml" filepath="$PROJECT_DIR$/.idea/modules/devProj3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PTCDriver/PTCDriver-rt/devProj3.PTCDriver-rt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PTCDriver/PTCDriver-rt/devProj3.PTCDriver-rt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PTCDriver/PTCDriver-wb/devProj3.PTCDriver-wb.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PTCDriver/PTCDriver-wb/devProj3.PTCDriver-wb.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blackjack/blackjack-rt/devProj3.blackjack-rt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/blackjack/blackjack-rt/devProj3.blackjack-rt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blackjackAdvisor/blackjackAdvisor-rt/devProj3.blackjackAdvisor-rt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/blackjackAdvisor/blackjackAdvisor-rt/devProj3.blackjackAdvisor-rt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/j1/j1-rt/devProj3.j1-rt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/j1/j1-rt/devProj3.j1-rt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/j1/j1-rt/devProj3.j1-rt.moduleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/j1/j1-rt/devProj3.j1-rt.moduleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/js1/js1-ux/devProj3.js1-ux.iml" filepath="$PROJECT_DIR$/.idea/modules/js1/js1-ux/devProj3.js1-ux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/js2/js2-ux/devProj3.js2-ux.iml" filepath="$PROJECT_DIR$/.idea/modules/js2/js2-ux/devProj3.js2-ux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/studyGuideModule/studyGuideModule-rt/devProj3.studyGuideModule-rt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/studyGuideModule/studyGuideModule-rt/devProj3.studyGuideModule-rt.main.iml" />
+    </modules>
+  </component>
+</project>

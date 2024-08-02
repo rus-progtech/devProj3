@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module
+  name = "myFirstComponent"
+  bajaVersion = "0"
+  vendor = "Tridium"
+  vendorVersion = "3.5.39"
+  description = "A module containing a simple BComponent"
+  preferredSymbol = "mfc"
+  buildDate = "03-Jan-13 12:17 EST"
+  buildMillis = "1357233451754"
+  buildHost = "VA51LT8QTPBS1"
+>
+
+<dependencies>
+  <dependency name="baja" vendor="Tridium" vendorVersion="3.5"/>
+</dependencies>
+
+<dirs>
+  <dir name="com/examples/myFirstComponent" install="runtime"/>
+  <dir name="doc" install="doc"/>
+</dirs>
+
+<!-- Module Include File -->
+
+<!-- Types -->
+<types>
+  <!-- Type Example:
+  <type name="MyClass" class="com.acme.BMyClass"/>
+  -->
+  <type name="FirstComponent" class="com.examples.myFirstComponent.BFirstComponent"/>
+</types>
+
+</module>

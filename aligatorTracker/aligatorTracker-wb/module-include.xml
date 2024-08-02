@@ -1,0 +1,8 @@
+<types>
+  <!--com.ptc.aligatorTracker.ui-->
+  <type class="com.ptc.aligatorTracker.ui.BGatorTrackerView" name="GatorTrackerView">
+    <agent requiredPermissions="r">
+      <on type="aligatorTracker:GatorTracker"/>
+    </agent>
+  </type>
+</types>

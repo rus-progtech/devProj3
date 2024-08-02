@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module
+  name = "myFirstComponent"
+  bajaVersion = "0"
+  vendor = "Tridium"
+  vendorVersion = "3.7.38"
+  description = "A module containing a simple BComponent"
+  preferredSymbol = "mfc"
+  buildDate = "11-Dec-12 17:09 EST"
+  buildMillis = "1355263792505"
+  buildHost = "VA51LT8QTPBS1"
+>
+
+<dependencies>
+  <dependency name="baja" vendor="Tridium" vendorVersion="3.6"/>
+</dependencies>
+
+<dirs>
+  <dir name="com/examples/myFirstComponent" install="runtime"/>
+  <dir name="doc" install="doc"/>
+</dirs>
+
+<types>
+  <type name="FirstComponent" class="com.examples.myFirstComponent.BFirstComponent"/>
+</types>
+
+</module>

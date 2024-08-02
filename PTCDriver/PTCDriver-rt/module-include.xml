@@ -1,0 +1,18 @@
+<types>
+  <!--com.ptc.PTCDriver-->
+  <type class="com.ptc.PTCDriver.BPTCDriverDevice" name="PTCDriverDevice"/>
+  <type class="com.ptc.PTCDriver.BPTCDriverDeviceFolder" name="PTCDriverDeviceFolder"/>
+  <type class="com.ptc.PTCDriver.BPTCDriverNetwork" name="PTCDriverNetwork"/>
+  <!--com.ptc.PTCDriver.comm-->
+  <type class="com.ptc.PTCDriver.comm.BPTCDriverSerialCommConfig" name="PTCDriverSerialCommConfig"/>
+  <type class="com.ptc.PTCDriver.comm.BPTCDriverTcpCommConfig" name="PTCDriverTcpCommConfig"/>
+  <!--com.ptc.PTCDriver.learn-->
+  <type class="com.ptc.PTCDriver.learn.BPTCDriverLearnDeviceEntry" name="PTCDriverLearnDeviceEntry"/>
+  <type class="com.ptc.PTCDriver.learn.BPTCDriverLearnDevicesJob" name="PTCDriverLearnDevicesJob"/>
+  <!--com.ptc.PTCDriver.point-->
+  <type class="com.ptc.PTCDriver.point.BPTCDriverPointDeviceExt" name="PTCDriverPointDeviceExt"/>
+  <type class="com.ptc.PTCDriver.point.BPTCDriverPointDiscoveryLeaf" name="PTCDriverPointDiscoveryLeaf"/>
+  <type class="com.ptc.PTCDriver.point.BPTCDriverPointDiscoveryPreferences" name="PTCDriverPointDiscoveryPreferences"/>
+  <type class="com.ptc.PTCDriver.point.BPTCDriverPointFolder" name="PTCDriverPointFolder"/>
+  <type class="com.ptc.PTCDriver.point.BPTCDriverProxyExt" name="PTCDriverProxyExt"/>
+</types>

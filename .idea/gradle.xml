@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/PTCDriver/PTCDriver-rt" />
+            <option value="$PROJECT_DIR$/PTCDriver/PTCDriver-wb" />
+            <option value="$PROJECT_DIR$/SampleImageModule/SampleImageModule-rt" />
+            <option value="$PROJECT_DIR$/aligatorTracker/aligatorTracker-rt" />
+            <option value="$PROJECT_DIR$/aligatorTracker/aligatorTracker-wb" />
+            <option value="$PROJECT_DIR$/blackjack/blackjack-rt" />
+            <option value="$PROJECT_DIR$/blackjack/blackjack-wb" />
+            <option value="$PROJECT_DIR$/blackjackAdvisor/blackjackAdvisor-rt" />
+            <option value="$PROJECT_DIR$/blackjackAdvisor/blackjackAdvisor-wb" />
+            <option value="$PROJECT_DIR$/j1/j1-rt" />
+            <option value="$PROJECT_DIR$/j1/j1-wb" />
+            <option value="$PROJECT_DIR$/js1/js1-rt" />
+            <option value="$PROJECT_DIR$/js1/js1-ux" />
+            <option value="$PROJECT_DIR$/js2/js2-rt" />
+            <option value="$PROJECT_DIR$/js2/js2-ux" />
+            <option value="$PROJECT_DIR$/studyGuideModule/studyGuideModule-rt" />
+            <option value="$PROJECT_DIR$/studyGuideModule/studyGuideModule-se" />
+            <option value="$PROJECT_DIR$/studyGuideModule/studyGuideModule-ux" />
+            <option value="$PROJECT_DIR$/studyGuideModule/studyGuideModule-wb" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

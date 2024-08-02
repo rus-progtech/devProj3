@@ -1,0 +1,4 @@
+<types>
+  <!--com.ptc.blackjack-->
+  <type class="com.ptc.blackjack.BBlackjack" name="Blackjack"/>
+</types>

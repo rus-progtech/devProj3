@@ -1,0 +1,5 @@
+<types>
+  <!--com.ptc.aligatorTracker-->
+  <type class="com.ptc.aligatorTracker.BGator" name="Gator"/>
+  <type class="com.ptc.aligatorTracker.BGatorTracker" name="GatorTracker"/>
+</types>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\blackjack\blackjack-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.blackjack-rt.main" />
+        <module name="devProj3.blackjack-rt.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\blackjack\blackjack-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.blackjack-wb.moduleTest" />
+        <module name="devProj3.blackjack-wb.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\blackjackAdvisor\blackjackAdvisor-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.blackjackAdvisor-rt.main" />
+        <module name="devProj3.blackjackAdvisor-rt.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\blackjackAdvisor\blackjackAdvisor-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.blackjackAdvisor-wb.main" />
+        <module name="devProj3.blackjackAdvisor-wb.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\j1\j1-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.j1-rt.moduleTest" />
+        <module name="devProj3.j1-rt.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\j1\j1-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.j1-wb.main" />
+        <module name="devProj3.j1-wb.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\js1\js1-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.js1-rt.main" />
+        <module name="devProj3.js1-rt.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\js1\js1-ux" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.js1-ux.moduleTest" />
+        <module name="devProj3.js1-ux.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\js2\js2-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.js2-rt.main" />
+        <module name="devProj3.js2-rt.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\js2\js2-ux" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.js2-ux.main" />
+        <module name="devProj3.js2-ux.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\PTCDriver\PTCDriver-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.PTCDriver-rt.moduleTest" />
+        <module name="devProj3.PTCDriver-rt.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\PTCDriver\PTCDriver-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.PTCDriver-wb.main" />
+        <module name="devProj3.PTCDriver-wb.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\SampleImageModule\SampleImageModule-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.SampleImageModule-rt.main" />
+        <module name="devProj3.SampleImageModule-rt.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\studyGuideModule\studyGuideModule-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.studyGuideModule-rt.moduleTest" />
+        <module name="devProj3.studyGuideModule-rt.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\studyGuideModule\studyGuideModule-se" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.studyGuideModule-se.main" />
+        <module name="devProj3.studyGuideModule-se.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\studyGuideModule\studyGuideModule-ux" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.studyGuideModule-ux.moduleTest" />
+        <module name="devProj3.studyGuideModule-ux.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\studyGuideModule\studyGuideModule-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.studyGuideModule-wb.main" />
+        <module name="devProj3.studyGuideModule-wb.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\aligatorTracker\aligatorTracker-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.aligatorTracker-rt.main" />
+        <module name="devProj3.aligatorTracker-rt.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\devProj3\aligatorTracker\aligatorTracker-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="devProj3.aligatorTracker-wb.main" />
+        <module name="devProj3.aligatorTracker-wb.moduleTest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="devProj3.is-rt.main" target="8" />
+      <module name="devProj3.is-rt.moduleTest" target="8" />
+      <module name="devProj3.is-rt.test" target="8" />
+      <module name="devProj3.is-se.main" target="8" />
+      <module name="devProj3.is-se.moduleTest" target="8" />
+      <module name="devProj3.is-se.test" target="8" />
+      <module name="devProj3.is-ux.main" target="8" />
+      <module name="devProj3.is-ux.moduleTest" target="8" />
+      <module name="devProj3.is-ux.test" target="8" />
+      <module name="devProj3.is-wb.main" target="8" />
+      <module name="devProj3.is-wb.moduleTest" target="8" />
+      <module name="devProj3.is-wb.test" target="8" />
+      <module name="devProj3.nola-rt.main" target="8" />
+      <module name="devProj3.nola-rt.moduleTest" target="8" />
+      <module name="devProj3.nola-rt.test" target="8" />
+      <module name="devProj3.nola-wb.main" target="8" />
+      <module name="devProj3.nola-wb.moduleTest" target="8" />
+      <module name="devProj3.nola-wb.test" target="8" />
+      <module name="devProj3.TestIncludeModule-rt.main" target="8" />
+      <module name="devProj3.TestIncludeModule-rt.moduleTest" target="8" />
+      <module name="devProj3.TestIncludeModule-rt.test" target="8" />
+      <module name="js1.blackjack-rt.main" target="8" />
+      <module name="js1.blackjack-rt.moduleTest" target="8" />
+      <module name="js1.blackjack-rt.test" target="8" />
+      <module name="js1.blackjack-wb.main" target="8" />
+      <module name="js1.blackjack-wb.moduleTest" target="8" />
+      <module name="js1.blackjack-wb.test" target="8" />
+      <module name="js1.blackjackAdvisor-rt.main" target="8" />
+      <module name="js1.blackjackAdvisor-rt.moduleTest" target="8" />
+      <module name="js1.blackjackAdvisor-rt.test" target="8" />
+      <module name="js1.blackjackAdvisor-wb.main" target="8" />
+      <module name="js1.blackjackAdvisor-wb.moduleTest" target="8" />
+      <module name="js1.blackjackAdvisor-wb.test" target="8" />
+      <module name="js1.is-rt.main" target="8" />
+      <module name="js1.is-rt.moduleTest" target="8" />
+      <module name="js1.is-rt.test" target="8" />
+      <module name="js1.is-se.main" target="8" />
+      <module name="js1.is-se.moduleTest" target="8" />
+      <module name="js1.is-se.test" target="8" />
+      <module name="js1.is-ux.main" target="8" />
+      <module name="js1.is-ux.moduleTest" target="8" />
+      <module name="js1.is-ux.test" target="8" />
+      <module name="js1.is-wb.main" target="8" />
+      <module name="js1.is-wb.moduleTest" target="8" />
+      <module name="js1.is-wb.test" target="8" />
+      <module name="js1.j1-rt.main" target="8" />
+      <module name="js1.j1-rt.moduleTest" target="8" />
+      <module name="js1.j1-rt.test" target="8" />
+      <module name="js1.j1-wb.main" target="8" />
+      <module name="js1.j1-wb.moduleTest" target="8" />
+      <module name="js1.j1-wb.test" target="8" />
+      <module name="js1.js1-rt.main" target="8" />
+      <module name="js1.js1-rt.moduleTest" target="8" />
+      <module name="js1.js1-rt.test" target="8" />
+      <module name="js1.js1-ux.main" target="8" />
+      <module name="js1.js1-ux.moduleTest" target="8" />
+      <module name="js1.js1-ux.test" target="8" />
+      <module name="js1.js2-rt.main" target="8" />
+      <module name="js1.js2-rt.moduleTest" target="8" />
+      <module name="js1.js2-rt.test" target="8" />
+      <module name="js1.js2-ux.main" target="8" />
+      <module name="js1.js2-ux.moduleTest" target="8" />
+      <module name="js1.js2-ux.test" target="8" />
+      <module name="js1.PTCDriver-rt.main" target="8" />
+      <module name="js1.PTCDriver-rt.moduleTest" target="8" />
+      <module name="js1.PTCDriver-rt.test" target="8" />
+      <module name="js1.PTCDriver-wb.main" target="8" />
+      <module name="js1.PTCDriver-wb.moduleTest" target="8" />
+      <module name="js1.PTCDriver-wb.test" target="8" />
+      <module name="js1.SampleImageModule-rt.main" target="8" />
+      <module name="js1.SampleImageModule-rt.moduleTest" target="8" />
+      <module name="js1.SampleImageModule-rt.test" target="8" />
+      <module name="js1.studyGuideModule-rt.main" target="8" />
+      <module name="js1.studyGuideModule-rt.moduleTest" target="8" />
+      <module name="js1.studyGuideModule-rt.test" target="8" />
+      <module name="js1.studyGuideModule-se.main" target="8" />
+      <module name="js1.studyGuideModule-se.moduleTest" target="8" />
+      <module name="js1.studyGuideModule-se.test" target="8" />
+      <module name="js1.studyGuideModule-ux.main" target="8" />
+      <module name="js1.studyGuideModule-ux.moduleTest" target="8" />
+      <module name="js1.studyGuideModule-ux.test" target="8" />
+      <module name="js1.studyGuideModule-wb.main" target="8" />
+      <module name="js1.studyGuideModule-wb.moduleTest" target="8" />
+      <module name="js1.studyGuideModule-wb.test" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

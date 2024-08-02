@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bajadoc version='1.0' createdBy='Niagara Devkit 3.5.39' createdAt='03-Jan-2013' createdOn='VA51LT8QTPBS1'>
+<module
+  name='myFirstComponent'
+  bajaVersion='0'
+  vendor='Tridium'
+  vendorVersion='3.5.39'
+>
+<description>A module containing a simple BComponent</description>
+</module>
+</bajadoc>

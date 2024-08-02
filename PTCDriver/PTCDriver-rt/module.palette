@@ -1,0 +1,12 @@
+<!--
+  Copyright 2024 PTC. All Rights Reserved.
+ -->
+<?xml version="1.0" encoding="UTF-8"?>
+<bajaObjectGraph version="1.0">
+  <p m="b=baja" t="b:UnrestrictedFolder">
+    <p n="PTCDriverNetwork" m="x=PTCDriver" t="x:PTCDriverNetwork"/>
+    <p n="PTCDriverDevice" t="x:PTCDriverDevice"/>
+    <p n="PTCDriverDeviceFolder" t="x:PTCDriverDeviceFolder"/>
+    <p n="PTCDriverPointFolder" t="x:PTCDriverPointFolder"/>
+  </p>
+</bajaObjectGraph>

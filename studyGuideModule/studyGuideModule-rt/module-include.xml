@@ -1,0 +1,4 @@
+<types>
+  <!--com.ptc.studyGuideModule-->
+  <type class="com.ptc.studyGuideModule.BFirstComponent" name="FirstComponent"/>
+</types>

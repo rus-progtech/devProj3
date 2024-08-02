@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bajaObjectGraph version="4.0" reversibleEncodingKeySource="none" FIPSEnabled="false" reversibleEncodingValidator="[null.1]=" >
+<p h="1" m="b=baja" t="b:Folder">
+ <!-- /IconFolder -->
+ <p n="IconFolder" h="2" t="b:Folder">
+  <p n="icon" t="b:Icon" v="module://SampleImageModule/com/ptc/SampleImageModule/imgs/apple.png"/>
+  <p n="wsAnnotation" t="b:WsAnnotation" v="2,2,8"/>
+  <!-- /IconFolder/Green$20Icons -->
+  <p n="Green$20Icons" h="3" t="b:UnrestrictedFolder">
+   <p n="wsAnnotation" t="b:WsAnnotation" v="2,2,8"/>
+   <!-- /IconFolder/Green$20Icons/Home -->
+   <p n="Home" h="5" m="ui=bajaui" t="ui:Label">
+    <p n="layout" t="ui:Layout" v="270.0,230.0,64.0,64.0"/>
+    <p n="image" m="gx=gx" t="gx:Image" v="module://SampleImageModule/com/ptc/SampleImageModule/home/home.png"/>
+    <p n="wsAnnotation" t="b:WsAnnotation" v="6,6,8"/>
+   </p>
+   <!-- /IconFolder/Green$20Icons/Home1 -->
+   <p n="Home1" h="6" t="ui:Label">
+    <p n="layout" t="ui:Layout" v="270.0,294.0,64.0,64.0"/>
+    <p n="image" t="gx:Image" v="module://SampleImageModule/com/ptc/SampleImageModule/home/home1.png"/>
+    <p n="wsAnnotation" t="b:WsAnnotation" v="10,10,8"/>
+   </p>
+   <!-- /IconFolder/Green$20Icons/Home2 -->
+   <p n="Home2" h="7" t="ui:Label">
+    <p n="layout" t="ui:Layout" v="270.0,358.0,64.0,64.0"/>
+    <p n="image" t="gx:Image" v="module://SampleImageModule/com/ptc/SampleImageModule/home/home2.png"/>
+    <p n="wsAnnotation" t="b:WsAnnotation" v="14,14,8"/>
+   </p>
+   <!-- /IconFolder/Green$20Icons/HomeBtn -->
+   <p n="HomeBtn" h="c" m="kitPx=kitPx" t="kitPx:ImageButton">
+    <p n="layout" t="ui:Layout" v="190.0,290.0,90.0,80.0"/>
+    <p n="image" t="gx:Image" v="module://SampleImageModule/com/ptc/SampleImageModule/home/home1.png"/>
+    <p n="buttonStyle" t="ui:ButtonStyle" v="none"/>
+    <p n="normal" t="gx:Image" v="module://SampleImageModule/com/ptc/SampleImageModule/home/home1.png"/>
+    <p n="mouseOver" t="gx:Image" v="module://SampleImageModule/com/ptc/SampleImageModule/home/home.png"/>
+    <p n="pressed" t="gx:Image" v="module://SampleImageModule/com/ptc/SampleImageModule/home/home2.png"/>
+    <!-- /IconFolder/Green$20Icons/HomeBtn/ActionBinding -->
+    <p n="ActionBinding" h="d" t="kitPx:ActionBinding">
+     <p n="widgetEvent" v="actionPerformed"/>
+    </p>
+    <p n="wsAnnotation" t="b:WsAnnotation" v="16,18,8"/>
+   </p>
+  </p>
+  <!-- /IconFolder/Misc -->
+  <p n="Misc" h="4" t="b:UnrestrictedFolder">
+   <p n="wsAnnotation" t="b:WsAnnotation" v="2,7,8"/>
+   <!-- /IconFolder/Misc/PullStation -->
+   <p n="PullStation" h="8" t="ui:Label">
+    <p n="layout" t="ui:Layout" v="440.0,200.0,64.0,64.0"/>
+    <p n="image" t="gx:Image" v="module://SampleImageModule/com/ptc/SampleImageModule/misc/fire-alarm.png"/>
+    <p n="wsAnnotation" t="b:WsAnnotation" v="2,2,8"/>
+   </p>
+   <!-- /IconFolder/Misc/Thermometer -->
+   <p n="Thermometer" h="9" t="ui:Label">
+    <p n="layout" t="ui:Layout" v="440.0,264.0,64.0,64.0"/>
+    <p n="image" t="gx:Image" v="module://SampleImageModule/com/ptc/SampleImageModule/misc/thermometer.png"/>
+    <p n="wsAnnotation" t="b:WsAnnotation" v="2,6,8"/>
+   </p>
+  </p>
+ </p>
+</p>
+</bajaObjectGraph>

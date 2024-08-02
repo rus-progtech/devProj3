@@ -1,0 +1,19 @@
+<!-- Module Build File -->
+
+<module
+  name = "myFirstComponent"
+  bajaVersion = "0"
+  preferredSymbol = "mfc"
+  description = "A module containing a simple BComponent"
+  vendor = "Tridium"
+>
+
+  <!-- Dependencies -->
+  <dependency name="baja" vendor="Tridium" vendorVersion="3.4" />
+
+  <!-- Packages -->
+  <package name="com.examples.myFirstComponent" />
+
+
+
+</module>

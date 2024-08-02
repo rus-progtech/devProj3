@@ -1,0 +1,5 @@
+<types>
+  <!--com.ptc.PTCDriver.ui-->
+  <type class="com.ptc.PTCDriver.ui.BPTCDriverDeviceManager" name="PTCDriverDeviceManager"/>
+  <type class="com.ptc.PTCDriver.ui.BPTCDriverPointManager" name="PTCDriverPointManager"/>
+</types>
